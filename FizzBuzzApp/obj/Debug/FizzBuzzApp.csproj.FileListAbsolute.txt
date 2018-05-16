@@ -1,0 +1,11 @@
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe.config
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.pdb
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.csprojResolveAssemblyReference.cache
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.exe
+F:\Personal Practise\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.pdb
+F:\MY PROJECTS\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe.config
+F:\MY PROJECTS\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.exe
+F:\MY PROJECTS\FizzBuzzApp\FizzBuzzApp\bin\Debug\FizzBuzzApp.pdb
+F:\MY PROJECTS\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.exe
+F:\MY PROJECTS\FizzBuzzApp\FizzBuzzApp\obj\Debug\FizzBuzzApp.pdb
